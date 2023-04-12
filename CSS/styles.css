@@ -189,6 +189,17 @@ a:hover{
     margin-right: 30px;
 }
 
+.javascript-img{
+    width: 20%;
+    float:right;
+    margin-left: 30px;
+}
+
+.react-img{
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+}
 .project-row{
     width: 50%;
     margin: 50px auto 0px auto;
